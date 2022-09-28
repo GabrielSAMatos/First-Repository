@@ -14,7 +14,7 @@ dias <- ( (anos * 365 * 10 * qnt) /1440)
 //Considere que um fumante perde 10 min de vida a cada cigarro
 //Considere que 1 dia possui 1440 minutos.
 
-Escreva ("Você já perdeu", dias, " dias da sua vida. Aproveite! :D")
+Escreva ("Você já perdeu", Int(dias), " dias da sua vida. Aproveite! :D")
 
 
 Fimalgoritmo
