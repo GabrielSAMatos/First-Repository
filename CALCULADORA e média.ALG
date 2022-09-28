@@ -1,28 +1,29 @@
 Algoritmo "Calculadora"
-// Descrição   : 2 questão guanabara
+// Descriï¿½ï¿½o   : 2 questï¿½o guanabara
 // Autor(a)    : Gabriel S A Matos
 // Data atual  : 27/09/2022
 Var
 N1, N2, soma, subtracao, multiplicacao : Inteiro
 divisao, media: Real
 Inicio
-Escreval ("Digite o primeiro número: ")
+Escreval ("Digite o primeiro nï¿½mero: ")
 Leia (N1)
-Escreval ("Digite o segundo número: ")
+Escreval ("Digite o segundo nï¿½mero: ")
 Leia (N2)
 
 soma <- N1 + N2
-Escreval ("A soma entre ", N1, " e", N2, " é igual a: ", soma)
+Escreval ("A soma entre ", N1, " e", N2, " ï¿½ igual a: ", soma)
 
 subtracao <- N1 - N2
-Escreval ("A subtração entre ", N1, " e", N2, " é igual a: ", subtracao)
+Escreval ("A subtraï¿½ï¿½o entre ", N1, " e", N2, " ï¿½ igual a: ", subtracao)
 
 divisao <- N1 / N2
-Escreval ("A divisão entre ", N1, " e", N2, " é igual a: ", divisao)
+Escreval ("A divisï¿½o entre ", N1, " e", N2, " ï¿½ igual a: ", divisao)
 
 multiplicacao <- N1 * N2
-Escreval ("A multiplicação entre ", N1, " e", N2, " é igual a: ", multiplicacao)
+Escreval ("A multiplicaï¿½ï¿½o entre ", N1, " e", N2, " ï¿½ igual a: ", multiplicacao)
 
 media <- (N1 + N2)/2
-Escreval ("A média de ", N1, " e", N2, " é igual a: ", media)
+Escreval ("A mï¿½dia de ", N1, " e", N2, " ï¿½ igual a: ", media)
+
 Fimalgoritmo
